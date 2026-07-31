@@ -1,6 +1,6 @@
 # ZARIRE
 
-Enterprise Infrastructure Management Platform
+Enterprise Infrastructure Assessment, Management & Operations Platform
 
 ZARIRE helps organizations discover, assess, manage, remediate, validate, and document enterprise infrastructure from a unified platform.
 
